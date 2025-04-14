@@ -35,8 +35,8 @@ The goal is to prepare a clean, well-structured dataset ready for machine learni
 ## Project Structure
 FoundationsFinal/
 - notebooks/
-- >analysis.ipynb        # Main Jupyter Notebook for data prep and EDA
+ >analysis.ipynb        # Main Jupyter Notebook for data prep and EDA
 - data/
-- >dataset.csv          # Dataset (to be added)
+ >dataset.csv          # Dataset (to be added)
 - README.md                # Project overview and instructions
 - requirements.txt         # Dependencies (to be populated)

@@ -1,4 +1,4 @@
-# Loan Default Prediction Project
+# Lending Data Prediction Project
 
 ## Overview
 This project is part of the **Data and Programming Foundations for AI/ML** final project, focusing on predicting loan defaults using the Lending Club dataset. The goal is to apply data analytics techniques to explore, clean, and prepare the dataset for potential machine learning modeling. The project currently covers data loading, verification, exploratory data analysis (EDA), and data cleaning, laying a strong foundation for future modeling.
